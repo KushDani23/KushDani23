@@ -220,17 +220,17 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 
 ```yaml
 Learning:
-  - System Design
+  - Spring Boot
+  - Spring AI
+  - Gen AI
   - Spring Security
-  - AWS
 
 Building:
   - Backend Applications
   - Java Projects
 
-Exploring:
-  - Microservices
-  - Cloud Native Development
+# Exploring:
+#   - Microservices
 
 OpenTo:
   - Software Development Engineer Roles
