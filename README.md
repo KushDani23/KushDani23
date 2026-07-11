@@ -46,27 +46,77 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 
 # ⚙️ Tech Stack
 
-## Languages
+## ☕ Programming Languages
 
-![Java](https://skillicons.dev/icons?i=java,python,cpp,c,mysql)
-
-## Backend
-
-![Backend](https://skillicons.dev/icons?i=spring,django)
-
-## Frontend
-
-![Frontend](https://skillicons.dev/icons?i=react,html,css,js)
-
-## Database
-
-![DB](https://skillicons.dev/icons?i=mysql,sqlite)
-
-## Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,maven,idea,vscode,postman)
+![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,js)
 
 ---
+
+## 🌱 Java Backend Ecosystem
+
+![Backend](https://skillicons.dev/icons?i=spring)
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
+</p>
+
+---
+
+## 🐍 Python Backend
+
+![Python Backend](https://skillicons.dev/icons?i=django)
+
+---
+
+## 🌐 Frontend
+
+![Frontend](https://skillicons.dev/icons?i=html,css,js)
+
+---
+
+## 🗄️ Databases
+
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
+
+<p>
+<img src="https://img.shields.io/badge/H2_Database-0078D4?style=for-the-badge"/>
+</p>
+
+---
+
+## 🛠️ Development Tools
+
+![Tools](https://skillicons.dev/icons?i=git,github,maven,idea,vscode,pycharm,postman,vercel)
+
+---
+
+## 🏛️ Software Architecture
+
+<p>
+<img src="https://img.shields.io/badge/MVC-24292F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Controller--Service--Repository-24292F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVT-24292F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object--Oriented_Programming_(OOP)-24292F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design_Patterns-24292F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Exception_Handling-24292F?style=for-the-badge"/>
+</p>
+
+---
+
+## 📚 Computer Science Fundamentals
+
+<p>
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating_Systems-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Networks-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software_Engineering-00599C?style=for-the-badge"/>
+</p>
+
+<!-- ---
 
 # 📊 Engineering Expertise
 
@@ -78,7 +128,7 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 | Django | ⭐⭐⭐⭐☆ |
 | SQL & Database Design | ⭐⭐⭐⭐☆ |
 | Object-Oriented Design | ⭐⭐⭐⭐☆ |
-| DSA | ⭐⭐⭐⭐☆ |
+| DSA | ⭐⭐⭐⭐☆ | -->
 
 ---
 
