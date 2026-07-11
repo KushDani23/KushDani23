@@ -171,7 +171,7 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 
 <div align="center">
 
-<!-- <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Kush-Dani&theme=tokyonight&hide_border=true"/> -->
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Kush-Dani&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -179,7 +179,7 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 
 <div align="center">
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kush-Dani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kush-Dani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 </div>
 
@@ -187,7 +187,7 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-Dani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-Dani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> -->
 
 </div>
 
