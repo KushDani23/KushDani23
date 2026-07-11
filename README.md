@@ -7,19 +7,15 @@
 <br>
 
 <a href="mailto:kushdani1228@gmail.com">
-<img src="https://img.shields.io/badge/Email-kushdani1228%40gmail.com-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Drop%20a%20Mail-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Kush-Dani">
-<img src="https://img.shields.io/badge/GitHub-Kush--Dani-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/kushdani/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/kushdani/">
-<img src="https://img.shields.io/badge/LinkedIn-Kush%20Dani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/KushDani09/">
-<img src="https://img.shields.io/badge/LeetCode-KushDani09-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/KushDani09/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <br><br>
@@ -29,8 +25,6 @@
 <img src="https://img.shields.io/github/followers/Kush-Dani?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&label=FOLLOWERS"/>
 
 </div>
----
-
 # 💼 About Me
 
 Software Development Engineer focused on backend engineering, scalable REST APIs, clean architecture, and maintainable software systems.
