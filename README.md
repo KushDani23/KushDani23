@@ -1,30 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:8B5CF6&text=Kush%20Dani&fontColor=ffffff&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Java%20Backend%20Developer&descAlignY=60&descSize=22"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=950&lines=Spring+Boot+%7C+REST+APIs;Scalable+Backend+Systems;Clean+Architecture+%7C+SOLID;Open+to+Software+Development+Engineer+Roles)](https://git.io/typing-svg)
-
-<br>
-
-<a href="mailto:kushdani1228@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-kushdani1228%40gmail.com-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kushdani/" target="_blank">
-<!-- <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> -->
-</a>
-
-<a href="https://leetcode.com/u/KushDani09/" target="_blank">
-<!-- <img src="https://img.shields.io/badge/LeetCode-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> -->
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Kush-Dani&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
-
-<img src="https://img.shields.io/github/followers/Kush-Dani?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&label=FOLLOWERS"/>
-
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:8B5CF6&text=Kush%20Dani&fontColor=ffffff&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Java%20Backend%20Developer&descAlignY=60&descSize=22"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=950&lines=Spring+Boot+%7C+REST+APIs;Scalable+Backend+Systems;Clean+Architecture+%7C+SOLID;Open+to+Software+Development+Engineer+Roles)](https://git.io/typing-svg) <br> <a href="mailto:kushdani1228@gmail.com"> <img src="https://img.shields.io/badge/Email-kushdani1228%40gmail.com-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Kush-Dani"> <img src="https://img.shields.io/badge/GitHub-Kush--Dani-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/kushdani/"> <img src="https://img.shields.io/badge/LinkedIn-Kush%20Dani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://leetcode.com/u/KushDani09/"> <img src="https://img.shields.io/badge/LeetCode-KushDani09-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <br><br> <img src="https://komarev.com/ghpvc/?username=Kush-Dani&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/> <img src="https://img.shields.io/github/followers/Kush-Dani?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&label=FOLLOWERS"/> </div>
 
 ---
 # 💼 About Me
