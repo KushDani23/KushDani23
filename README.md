@@ -209,7 +209,7 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kush-Dani/Kush-Dani/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Kush-Dani/Kush-Dani/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
 ---
