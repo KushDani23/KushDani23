@@ -150,7 +150,7 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 
 </details> -->
 
----
+<!---
 
 # 💼 Experience
 
@@ -165,8 +165,8 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 - Django Admin customization
 - Responsive applications
 
+--- -->
 ---
-
 # 📈 GitHub Analytics
 
 <div align="center">
