@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:8B5CF6&text=Kush%20Dani&fontColor=ffffff&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Java%20Backend%20Developer&descAlignY=60&descSize=22"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=950&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Scalable+Backend+Systems;Clean+Architecture+%7C+SOLID;Open+to+Software+Development+Engineer+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=950&lines=Spring+Boot+%7C+REST+APIs;Scalable+Backend+Systems;Clean+Architecture+%7C+SOLID;Open+to+Software+Development+Engineer+Roles)](https://git.io/typing-svg)
 
 <br>
 
