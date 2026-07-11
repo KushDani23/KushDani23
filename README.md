@@ -171,7 +171,7 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 
 <div align="center">
 
-<!-- <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Kush-Dani&theme=tokyonight&hide_border=true"/> -->
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Kush-Dani&theme=tokyonight&hide_border=true"/>
 
 </div>
 
