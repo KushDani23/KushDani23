@@ -43,18 +43,17 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 - 📫 kushdani1228@gmail.com
 
 ---
+# ⚙️Tech Stack
 
-# ⚙️ Tech Stack
-
-## ☕ Programming Languages
+## ☕ Languages
 
 ![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,js)
 
 ---
 
-## 🌱 Java Backend Ecosystem
+## 🚀 Frameworks & Technologies
 
-![Backend](https://skillicons.dev/icons?i=spring)
+![Frameworks](https://skillicons.dev/icons?i=spring,django)
 
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -62,12 +61,6 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
 </p>
-
----
-
-## 🐍 Python Backend
-
-![Python Backend](https://skillicons.dev/icons?i=django)
 
 ---
 
@@ -87,26 +80,20 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 
 ---
 
-## 🛠️ Development Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,maven,idea,vscode,pycharm,postman,vercel)
-
----
-
 ## 🏛️ Software Architecture
 
 <p>
 <img src="https://img.shields.io/badge/MVC-24292F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Controller--Service--Repository-24292F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MVT-24292F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Object--Oriented_Programming_(OOP)-24292F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-24292F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Design_Patterns-24292F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Exception_Handling-24292F?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📚 Computer Science Fundamentals
+## 🧠 Computer Science Fundamentals
 
 <p>
 <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-00599C?style=for-the-badge"/>
@@ -115,6 +102,12 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 <img src="https://img.shields.io/badge/Computer_Networks-00599C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Software_Engineering-00599C?style=for-the-badge"/>
 </p>
+
+---
+
+## 🛠️ Development Tools
+
+![Tools](https://skillicons.dev/icons?i=git,github,maven,idea,vscode,pycharm,postman,vercel)
 
 <!-- ---
 
