@@ -1,32 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:8B5CF6&text=Kush%20Dani&fontColor=ffffff&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Java%20Backend%20Developer&descAlignY=60&descSize=22"/>
+# 👋 Hi, I'm <b>Kush Dani</b>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=950&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Scalable+Backend+Systems;Clean+Architecture+%7C+SOLID;Open+to+Software+Development+Engineer+Roles)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24&text=Backend%20Engineer&fontColor=ffffff&fontSize=58&fontAlignY=48&animation=fadeIn"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=1200&color=8B5CF6&center=true&vCenter=true&width=950&lines=Java+%7C+Spring+Boot;REST+API+Development;Building+Scalable+Backend+Systems;Clean+Architecture+%7C+SOLID;Open+to+Software+Development+Engineer+Roles)](https://git.io/typing-svg)
 
 <br>
 
 <a href="mailto:kushdani1228@gmail.com">
-<img src="https://img.shields.io/badge/Email-kushdani1228%40gmail.com-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
-
-<a href="https://github.com/Kush-Dani">
-<img src="https://img.shields.io/badge/GitHub-Kush--Dani-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/kushdani/">
-<img src="https://img.shields.io/badge/LinkedIn-Kush%20Dani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/KushDani09/">
-<img src="https://img.shields.io/badge/LeetCode-KushDani09-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Kush-Dani&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Kush-Dani&style=for-the-badge&label=PROFILE+VIEWS&color=8B5CF6"/>
 
-<img src="https://img.shields.io/github/followers/Kush-Dani?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/followers/Kush-Dani?style=for-the-badge&logo=github&label=FOLLOWERS&color=8B5CF6"/>
 
 </div>
 
