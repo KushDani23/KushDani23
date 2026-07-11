@@ -74,9 +74,9 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 
 ![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
 
-<p>
+<!-- <p>
 <img src="https://img.shields.io/badge/H2_Database-0078D4?style=for-the-badge"/>
-</p>
+</p> -->
 
 ---
 
@@ -123,7 +123,7 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 | Object-Oriented Design | ⭐⭐⭐⭐☆ |
 | DSA | ⭐⭐⭐⭐☆ | -->
 
----
+<!-- ---
 
 # 🚀 Featured Projects
 
@@ -148,7 +148,7 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 - Authentication & Authorization
 - Responsive Bootstrap UI
 
-</details>
+</details> -->
 
 ---
 
@@ -169,25 +169,27 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 
 # 📈 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kush-Dani&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kush-Dani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kush-Dani&theme=tokyonight"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Kush-Dani&theme=tokyonight&hide_border=true&border_radius=10"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-Dani&layout=compact&theme=tokyonight"/>
+<div align="center">
 
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-Dani&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
+
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+<!-- # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Kush-Dani&theme=algolia&no-frame=true&row=2&column=4)
+![](https://github-profile-trophy.vercel.app/?username=Kush-Dani&theme=algolia&no-frame=true&row=2&column=4) -->
 
 ---
 
