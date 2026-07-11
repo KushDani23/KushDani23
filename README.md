@@ -199,22 +199,22 @@ Software Development Engineer focused on backend engineering, scalable REST APIs
 
 ![](https://github-profile-trophy.vercel.app/?username=Kush-Dani&theme=algolia&no-frame=true&row=2&column=4) -->
 
----
+<!-- --- -->
 
 # 📊 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Kush-Dani&theme=tokyo-night)
 
 ---
-
 # 🐍 Contribution Snake
 
-```text
-Requires GitHub Action:
-Platane/snk
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kush-Dani/Kush-Dani/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 ---
+
+<!-- --- -->
 
 # 🎯 Current Focus
 
