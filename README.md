@@ -1,254 +1,117 @@
-<div align="center">
+# Hi, I'm **Kush Dani**
 
-# 👋 Hi, I'm <b>Kush Dani</b>
+Java Developer focused on building maintainable backend systems, REST APIs, and production-oriented applications using Java and Spring.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24&text=Backend%20Engineer&fontColor=ffffff&fontSize=58&fontAlignY=48&animation=fadeIn"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=1200&color=8B5CF6&center=true&vCenter=true&width=950&lines=Java+%7C+Spring+Boot;REST+API+Development;Building+Scalable+Backend+Systems;Clean+Architecture+%7C+SOLID;Open+to+Software+Development+Engineer+Roles)](https://git.io/typing-svg)
-
-<br>
-
-<a href="mailto:kushdani1228@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/kushdani/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/KushDani09/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Kush-Dani&style=for-the-badge&label=PROFILE+VIEWS&color=8B5CF6"/>
-
-<img src="https://img.shields.io/github/followers/Kush-Dani?style=for-the-badge&logo=github&label=FOLLOWERS&color=8B5CF6"/>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/kushdani/) •
+[LeetCode](https://leetcode.com/u/KushDani09/) •
+Email: **kushdani1228@gmail.com**
 
 ---
 
-# 💼 About Me
+## About
 
-Software Development Engineer focused on backend engineering, scalable REST APIs, clean architecture, and maintainable software systems.
-
-- 🎓 M.Sc. Information Technology
-- ☕ Java as primary language
-- 🌱 Learning System Design, Spring Security, AWS
-- 💡 Interested in Backend Engineering, Distributed Systems, Cloud
-- 📫 kushdani1228@gmail.com
-
----
-# ⚙️Tech Stack
-
-## ☕ Languages
-
-![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,js)
+- M.Sc. in Information Technology, Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)
+- Primary language: Java
+- Primary interests: Backend systems, API design, database-backed applications, and clean architecture
+- Building projects with an emphasis on readability, modularity, testing, and maintainability.
 
 ---
 
-## 🚀 Frameworks & Technologies
+## Selected Projects
 
-![Frameworks](https://skillicons.dev/icons?i=spring,django)
+### NexusChat
 
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
-</p>
+Real-time multi-client chat application built using Java socket programming.
 
----
-
-## 🌐 Frontend
-
-![Frontend](https://skillicons.dev/icons?i=html,css,js)
+- Concurrent client communication
+- Thread-per-client architecture
+- Connection lifecycle management
+- Modular server design
 
 ---
 
-## 🗄️ Databases
+### ClaimFlow
 
-![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
+Insurance claims management platform built with Spring Boot.
 
-<!-- <p>
-<img src="https://img.shields.io/badge/H2_Database-0078D4?style=for-the-badge"/>
-</p> -->
-
----
-
-## 🏛️ Software Architecture
-
-<p>
-<img src="https://img.shields.io/badge/MVC-24292F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Controller--Service--Repository-24292F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVT-24292F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-24292F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design_Patterns-24292F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Exception_Handling-24292F?style=for-the-badge"/>
-</p>
-
----
-
-## 🧠 Computer Science Fundamentals
-
-<p>
-<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Operating_Systems-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Networks-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software_Engineering-00599C?style=for-the-badge"/>
-</p>
-
----
-
-## 🛠️ Development Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,maven,idea,vscode,pycharm,postman,vercel)
-
-<!-- ---
-
-# 📊 Engineering Expertise
-
-| Domain | Level |
-|---------|-------|
-| Backend Development | ⭐⭐⭐⭐⭐ |
-| REST APIs | ⭐⭐⭐⭐⭐ |
-| Spring Boot | ⭐⭐⭐⭐☆ |
-| Django | ⭐⭐⭐⭐☆ |
-| SQL & Database Design | ⭐⭐⭐⭐☆ |
-| Object-Oriented Design | ⭐⭐⭐⭐☆ |
-| DSA | ⭐⭐⭐⭐☆ | -->
-
-<!-- ---
-
-# 🚀 Featured Projects
-
-<details>
-<summary><b>🔗 URL Shortener</b></summary>
-
-- Java + Spring Boot + React
-- Controller-Service-Repository Architecture
-- REST APIs
-- Click Analytics
-- Validation & Exception Handling
-- Production-ready backend structure
-
-</details>
-
-<details>
-<summary><b>🌾 AgriMart</b></summary>
-
-- Django Ecommerce Platform
-- Farmer / Consumer / Admin
-- Razorpay Integration
+- RESTful APIs
 - Authentication & Authorization
-- Responsive Bootstrap UI
-
-</details> -->
-
-<!---
-
-# 💼 Experience
-
-### Python Django Developer Intern
-
-**Infolabz IT Services Pvt. Ltd.**
-
-- Developed production web applications
-- Built relational database models
-- Django ORM
-- REST API Integration
-- Django Admin customization
-- Responsive applications
-
---- -->
----
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Kush-Dani&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kush-Dani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-Dani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> -->
-
-</div>
-
-<!-- --- -->
+- Validation and centralized exception handling
+- Database persistence with JPA/Hibernate
 
 ---
 
-<!-- # 🏆 GitHub Trophies
+### SnipURL
 
-![](https://github-profile-trophy.vercel.app/?username=Kush-Dani&theme=algolia&no-frame=true&row=2&column=4) -->
+URL shortening service built with Spring Boot.
 
-<!-- --- -->
-
-# 📊 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Kush-Dani&theme=tokyo-night)
+- Short URL generation
+- Redirect handling
+- Layered architecture
+- Foundation for click analytics
 
 ---
-# 🐍 Contribution Snake
+
+## Engineering Practices
+
+- Layered Architecture (Controller → Service → Repository)
+- REST API Design
+- Object-Oriented Design
+- SOLID Principles
+- Exception Handling
+- Input Validation
+- Database Design
+- Git-based Development
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kush-Dani/Kush-Dani/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KushDani23&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushDani23&hide_border=true" />
 </p>
 
 ---
 
-<!-- --- -->
+## Contribution Activity
 
-# 🎯 Current Focus
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KushDani23&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KushDani23/KushDani23/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+## Current Focus
 
 ```yaml
 Learning:
   - Spring Boot
   - Spring AI
   - Gen AI
-  - Spring Security
 
 Building:
-  - Backend Applications
   - Java Projects
 
-# Exploring:
-#   - Microservices
-
 OpenTo:
-  - Software Development Engineer Roles
+  - Software Development Engineer (SDE) Roles
 ```
 
 ---
 
-# 🌐 Connect
+## Contact
 
-- GitHub: https://github.com/Kush-Dani
 - LinkedIn: https://www.linkedin.com/in/kushdani/
 - LeetCode: https://leetcode.com/u/KushDani09/
 - Email: kushdani1228@gmail.com
-
----
-
-> "Write software that scales not only in traffic, but also in maintainability."
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
-</p>
