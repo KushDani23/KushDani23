@@ -92,7 +92,6 @@ URL shortening service built with Spring Boot.
 <p align="center">
   <img src="https://raw.githubusercontent.com/KushDani23/KushDani23/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
-
 ---
 
 ## Current Focus
