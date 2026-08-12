@@ -3,7 +3,7 @@
 Java Developer focused on building maintainable backend systems, REST APIs, and production-oriented applications using Java and Spring.
 
 [LinkedIn](https://www.linkedin.com/in/kushdani/) •
-[LeetCode](https://leetcode.com/u/KushDani09/) •
+[LeetCode](https://leetcode.com/u/KushDani09/)
 
 ---
 
