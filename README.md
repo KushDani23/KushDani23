@@ -1,66 +1,122 @@
-# Hi, I'm **Kush Dani**
+# Hi, I'm Kush Dani
 
-Java Developer focused on building maintainable backend systems, REST APIs, and production-oriented applications using Java and Spring.
+```java
+public class KushDani implements JavaDeveloper {
+    private final String role = "Java Developer";
+    private final String[] focus = {"Backend Systems", "REST APIs", "Spring Boot"};
+    private final boolean openToWork = true;
 
-[LinkedIn](https://www.linkedin.com/in/kushdani/) •
-[LeetCode](https://leetcode.com/u/KushDani09/)
+    // Building maintainable, production-oriented backend applications
+}
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushdani/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/KushDani09/)
 
 ---
 
 ## About
 
-- M.Sc. in Information Technology, Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)
-- Primary language: Java
-- Primary interests: Backend systems, API design, database-backed applications, and clean architecture
-- Building projects with an emphasis on readability, modularity, testing, and maintainability.
+```java
+/**
+ * @author  Kush Dani
+ * @degree  M.Sc. in Information Technology
+ * @college Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)
+ */
+public class About {
+    String primaryLanguage = "Java";
+    String[] interests = {
+        "Backend Systems",
+        "REST API Design",
+        "Database-backed Applications",
+        "Clean Architecture"
+    };
+    String philosophy = "Readable, modular, and maintainable code";
+}
+```
+
+---
+
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## Selected Projects
 
-### NexusChat
+### MailInsight
 
-Real-time multi-client chat application built using Java socket programming.
+```java
+public class MailInsight extends SpringBootApplication {
+    // Gmail inbox analyzer — classifies unread emails by priority using the Gemini API
 
-- Concurrent client communication
-- Thread-per-client architecture
-- Connection lifecycle management
-- Modular server design
-
----
+    void highlights() {
+        applyArchitecture("Modular Monolith");     // Controller -> Service -> Repository
+        enable("Incremental Gmail Sync");
+        enable("Batched AI Requests");              // minimizes API calls
+        encrypt("Per-user API Keys", "AES-256-GCM");
+        support("Multi-account OAuth");
+    }
+}
+```
 
 ### ClaimFlow
 
-Insurance claims management platform built with Spring Boot.
+```java
+public class ClaimFlow extends SpringBootApplication {
+    // Insurance claim processing system with multi-role workflows
 
-- RESTful APIs
-- Authentication & Authorization
-- Validation and centralized exception handling
-- Database persistence with JPA/Hibernate
+    void highlights() {
+        exposeRestApi();
+        enforce("Strict Claim State-Transition Validation");
+        secureWith("JWT", "Role-Based Access Control");
+        log("Immutable Audit Trail");
+        persistWith("JPA/Hibernate", "PostgreSQL");
+    }
+}
+```
 
----
+### TestPilot AI
 
-### SnipURL
+```java
+public class TestPilotAI extends SpringBootApplication {
+    // AI-powered REST API test case generator (Groq / Llama 3.1)
 
-URL shortening service built with Spring Boot.
-
-- Short URL generation
-- Redirect handling
-- Layered architecture
-- Foundation for click analytics
+    void highlights() {
+        applyArchitecture("Layered: Controller -> Service -> API");
+        decoupleWith("DTOs");
+        parseWith("Regex", "Jackson ObjectMapper");   // reliable JSON extraction from LLM output
+        generate("Positive", "Negative", "Boundary Test Cases");
+    }
+}
+```
 
 ---
 
 ## Engineering Practices
 
-- Layered Architecture (Controller → Service → Repository)
-- REST API Design
-- Object-Oriented Design
-- SOLID Principles
-- Exception Handling
-- Input Validation
-- Database Design
-- Git-based Development
+```java
+public interface EngineeringPractices {
+    void layeredArchitecture();   // Controller -> Service -> Repository
+    void restApiDesign();
+    void objectOrientedDesign();  // SOLID Principles
+    void jwtAuthentication();          // JWT, OAuth2
+    void roleBasedAcessControl();
+    void batchProcessing();
+    void exceptionHandling();
+    void inputValidation();
+    void databaseDesign();        // PostgreSQL, JPA/Hibernate
+    void gitBasedDevelopment();
+    
+}
+```
 
 ---
 
@@ -76,6 +132,7 @@ URL shortening service built with Spring Boot.
     height="170"
   />
 </p>
+
 ---
 
 ## Contribution Activity
@@ -91,26 +148,30 @@ URL shortening service built with Spring Boot.
 <p align="center">
   <img src="https://raw.githubusercontent.com/KushDani23/KushDani23/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
+
 ---
 
 ## Current Focus
 
-```yaml
-Learning:
-  - Spring Boot
-  - Spring AI
-  - Gen AI
-
-Building:
-  - Java Projects
-
-OpenTo:
-  - Software Development Engineer (SDE) Roles
+```java
+public class CurrentFocus {
+    String[] learning = {"Spring AI", "Gen AI"};
+    String[] building = {"Java Backend Projects"};
+    String[] openTo = {
+        "Software Development Engineer (SDE) Roles",
+        "Java Developer Roles"
+    };
+}
 ```
 
 ---
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/kushdani/
-- LeetCode: https://leetcode.com/u/KushDani09/
+```java
+public class Contact {
+    String linkedIn = "https://www.linkedin.com/in/kushdani/";
+    String leetCode = "https://leetcode.com/u/KushDani09/";
+    String email ="kushdani1228@gmail.com";
+}
+```
