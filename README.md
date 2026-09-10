@@ -122,14 +122,10 @@ public interface EngineeringPractices {
 
 ## GitHub Statistics
 <p align="center"> 
-    <img    src="https://github-readme-stats.vercel.app/api?username=KushDani23&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+    <img 
+src="https://github-readme-stats.vercel.app/api?username=KushDani23&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
     <img src="https://streak-stats.demolab.com?user=KushDani23&theme=github-dark&hide_border=true" height="170"/></p>
 
----
-
-## Contribution Activity
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KushDani23&theme=github-dark&hide_border=true" /></p> ---
 ---
 
 ## Contribution Snake
