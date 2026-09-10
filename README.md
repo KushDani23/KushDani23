@@ -121,28 +121,15 @@ public interface EngineeringPractices {
 ---
 
 ## GitHub Statistics
-
-<p align="center">
- <img
-    src="https://github-readme-stats.vercel.app/api?username=KushDani23&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-    height="170"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=KushDani23&theme=github-dark&hide_border=true"
-    height="170"
-  />
-</p>
+<p align="center"> 
+    <img    src="https://github-readme-stats.vercel.app/api?username=KushDani23&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+    <img src="https://streak-stats.demolab.com?user=KushDani23&theme=github-dark&hide_border=true" height="170"/></p>
 
 ---
 
 ## Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KushDani23&bg_color=0d1117&color=6DB33F&line=6DB33F&point=6DB33F&hide_border=true&area=true" alt="Kush Dani's GitHub contribution activity graph" />
-</p>
-<!-- Alternative (can be unreliable due to free-tier hosting):
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KushDani23&theme=github-dark&hide_border=true" />
--->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KushDani23&theme=github-dark&hide_border=true" /></p> ---
 ---
 
 ## Contribution Snake
