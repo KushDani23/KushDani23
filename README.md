@@ -110,11 +110,10 @@ Right now I'm exploring **Spring AI** and **Generative AI** by building backend 
 
 </div>
 
-| Project | Language | Last Commit |
-|:--|:--|:--|
-| [MailInsight](https://github.com/KushDani23/Mail-Insight) | ![Language](https://img.shields.io/github/languages/top/KushDani23/Mail-Insight?style=flat-square&color=ED8B00) | ![Last commit](https://img.shields.io/github/last-commit/KushDani23/Mail-Insight?style=flat-square&color=6DB33F) |
-| [ClaimFlow](https://github.com/KushDani23/ClaimFlow) | ![Language](https://img.shields.io/github/languages/top/KushDani23/ClaimFlow?style=flat-square&color=ED8B00) | ![Last commit](https://img.shields.io/github/last-commit/KushDani23/ClaimFlow?style=flat-square&color=6DB33F) |
-| [TestPilot AI](https://github.com/KushDani23/TestPilotAI) | ![Language](https://img.shields.io/github/languages/top/KushDani23/TestPilotAI?style=flat-square&color=ED8B00) | ![Last commit](https://img.shields.io/github/last-commit/KushDani23/TestPilotAI?style=flat-square&color=6DB33F) |
+### Latest Commits
+
+<!--LATEST_COMMITS:START-->
+<!--LATEST_COMMITS:END-->
 
 ---
 
