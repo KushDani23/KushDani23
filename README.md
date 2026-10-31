@@ -1,162 +1,135 @@
-# Hi, I'm Kush Dani
+<div align="center">
 
-```java
-public class KushDani implements JavaDeveloper {
-    private final String role = "Java Developer";
-    private final String[] focus = {"Backend Systems", "REST APIs", "Spring Boot"};
-    private final boolean openToWork = true;
+# Kush Dani
 
-    // Building maintainable, production-oriented backend applications
-}
-```
+### Java Backend Developer · Spring Boot · REST APIs
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushdani/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/KushDani09/)
+M.Sc-IT @ Dhirubhai Ambani University (DA-IICT) · Ahmedabad, India
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushdani/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KushDani09/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushdani1228@gmail.com)
+
+**Open to SDE and Java Developer roles**
+
+</div>
 
 ---
 
 ## About
 
-```java
-/**
- * @author  Kush Dani
- * @degree  M.Sc. in Information Technology
- * @college Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)
- */
-public class About {
-    String primaryLanguage = "Java";
-    String[] interests = {
-        "Backend Systems",
-        "REST API Design",
-        "Database-backed Applications",
-        "Clean Architecture"
-    };
-    String philosophy = "Readable, modular, and maintainable code";
-}
-```
+I build maintainable, production-oriented backend applications with Java and the Spring ecosystem. I care about clean layered architecture, well-designed REST APIs, secure authentication, and database-backed systems that are easy to read and extend.
+
+Right now I'm exploring **Spring AI** and **Generative AI** by building backend projects that integrate LLMs into real workflows.
 
 ---
 
 ## Tech Stack
 
-![Java](https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Area | Technologies |
+|:--|:--|
+| **Language** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Spring Ecosystem** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Web MVC](https://img.shields.io/badge/Spring_Web_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white) |
+| **Persistence** | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Build & Version Control** | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-### MailInsight
+### 📬 [MailInsight](https://github.com/KushDani23/Mail-Insight)
+**Gmail inbox analyzer that classifies unread emails by priority using the Gemini API.**
 
-```java
-public class MailInsight extends SpringBootApplication {
-    // Gmail inbox analyzer — classifies unread emails by priority using the Gemini API
+- Modular monolith with a clean Controller → Service → Repository structure
+- Incremental Gmail sync and batched AI requests to minimize API calls
+- Per-user API keys encrypted with AES-256-GCM
+- Multi-account OAuth support
 
-    void highlights() {
-        applyArchitecture("Modular Monolith");     // Controller -> Service -> Repository
-        enable("Incremental Gmail Sync");
-        enable("Batched AI Requests");              // minimizes API calls
-        encrypt("Per-user API Keys", "AES-256-GCM");
-        support("Multi-account OAuth");
-    }
-}
-```
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=flat-square&logo=google&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 
-### ClaimFlow (under Development)
+<br>
 
-```java
-public class ClaimFlow extends SpringBootApplication {
-    // Insurance claim processing system with multi-role workflows
+### 🛡️ [ClaimFlow](https://github.com/KushDani23/ClaimFlow) *(in development)*
+**Insurance claim processing system with multi-role workflows.**
 
-    void highlights() {
-        exposeRestApi();
-        enforce("Strict Claim State-Transition Validation");
-        secureWith("JWT", "Role-Based Access Control");
-        log("Immutable Audit Trail");
-        persistWith("JPA/Hibernate", "PostgreSQL");
-    }
-}
-```
+- REST API with strict claim state-transition validation
+- JWT authentication with role-based access control
+- Immutable audit trail for every claim action
+- Persistence with JPA/Hibernate on PostgreSQL
 
-### TestPilot AI
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-```java
-public class TestPilotAI extends SpringBootApplication {
-    // AI-powered REST API test case generator (Groq / Llama 3.1)
+<br>
 
-    void highlights() {
-        applyArchitecture("Layered: Controller -> Service -> API");
-        decoupleWith("DTOs");
-        parseWith("Regex", "Jackson ObjectMapper");   // reliable JSON extraction from LLM output
-        generate("Positive", "Negative", "Boundary Test Cases");
-    }
-}
-```
+### 🧪 [TestPilot AI](https://github.com/KushDani23/TestPilotAI)
+**AI-powered REST API test case generator built on Groq (Llama 3.1).**
+
+- Layered design (Controller → Service → API client) with DTO-based decoupling
+- Reliable JSON extraction from LLM output using Regex and Jackson `ObjectMapper`
+- Generates positive, negative, and boundary test cases
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![Llama 3.1](https://img.shields.io/badge/Llama_3.1-0467DF?style=flat-square&logo=meta&logoColor=white)
 
 ---
 
-## Engineering Practices
+## Engineering Focus
 
-```java
-public interface EngineeringPractices {
-    void layeredArchitecture();   // Controller -> Service -> Repository
-    void restApiDesign();
-    void objectOrientedDesign();  // SOLID Principles
-    void jwtAuthentication();          // JWT, OAuth2
-    void roleBasedAcessControl();
-    void batchProcessing();
-    void exceptionHandling();
-    void inputValidation();
-    void databaseDesign();        // PostgreSQL, JPA/Hibernate
-    void gitBasedDevelopment();
-    
-}
-```
+| | |
+|:--|:--|
+| **Architecture** | Layered and modular design, SOLID principles, DTO-based separation |
+| **API Design** | RESTful endpoints, input validation, consistent exception handling |
+| **Security** | JWT, OAuth2, role-based access control, encrypted secrets |
+| **Data** | PostgreSQL schema design, JPA/Hibernate, batch processing |
+| **Workflow** | Git-based development, readable and maintainable code |
 
 ---
 
-## GitHub Statistics
-<p align="center"> 
-    <img 
-src="https://github-readme-stats.vercel.app/api?username=KushDani23&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-    <img src="https://streak-stats.demolab.com?user=KushDani23&theme=github-dark&hide_border=true" height="170"/></p>
+## GitHub Activity
+
+<div align="center">
+
+<img alt="GitHub Streak" height="170" src="https://streak-stats.demolab.com?user=KushDani23&theme=github-dark&hide_border=true" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KushDani23/KushDani23/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KushDani23/KushDani23/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/KushDani23/KushDani23/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+| Project | Language | Last Commit |
+|:--|:--|:--|
+| [MailInsight](https://github.com/KushDani23/Mail-Insight) | ![Language](https://img.shields.io/github/languages/top/KushDani23/Mail-Insight?style=flat-square&color=ED8B00) | ![Last commit](https://img.shields.io/github/last-commit/KushDani23/Mail-Insight?style=flat-square&color=6DB33F) |
+| [ClaimFlow](https://github.com/KushDani23/ClaimFlow) | ![Language](https://img.shields.io/github/languages/top/KushDani23/ClaimFlow?style=flat-square&color=ED8B00) | ![Last commit](https://img.shields.io/github/last-commit/KushDani23/ClaimFlow?style=flat-square&color=6DB33F) |
+| [TestPilot AI](https://github.com/KushDani23/TestPilotAI) | ![Language](https://img.shields.io/github/languages/top/KushDani23/TestPilotAI?style=flat-square&color=ED8B00) | ![Last commit](https://img.shields.io/github/last-commit/KushDani23/TestPilotAI?style=flat-square&color=6DB33F) |
 
 ---
 
-## Contribution Snake
+## Currently
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KushDani23/KushDani23/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
----
-
-## Current Focus
-
-```java
-public class CurrentFocus {
-    String[] learning = {"Spring AI", "Gen AI"};
-    String[] building = {"Java Backend Projects"};
-    String[] openTo = {
-        "Software Development Engineer (SDE) Roles",
-        "Java Developer Roles"
-    };
-}
-```
+- 🔭 Learning **Spring AI** and **Generative AI**
+- 🛠️ Building Java backend projects
+- 🎯 Looking for **SDE / Java Developer** opportunities
 
 ---
 
-## Contact
+<div align="center">
 
-```java
-public class Contact {
-    String linkedIn = "https://www.linkedin.com/in/kushdani/";
-    String leetCode = "https://leetcode.com/u/KushDani09/";
-    String email ="kushdani1228@gmail.com";
-}
-```
+**Let's connect**
+
+[LinkedIn](https://www.linkedin.com/in/kushdani/) · [LeetCode](https://leetcode.com/u/KushDani09/) · [kushdani1228@gmail.com](mailto:kushdani1228@gmail.com)
+
+</div>
