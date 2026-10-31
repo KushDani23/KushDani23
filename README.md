@@ -115,11 +115,11 @@ Right now I'm exploring **Spring AI** and **Generative AI** by building backend 
 <!--LATEST_COMMITS:START-->
 | Date | Project | Commit |
 |:--|:--|:--|
+| 31 Oct 2026 | [TestPilotAI](https://github.com/KushDani23/TestPilotAI) | [updated README.md and replce resttemplate with spring-ai](https://github.com/KushDani23/TestPilotAI/commit/2a7b8508523520dc754cdfc1e32b4d2472e6f33d) |
+| 31 Oct 2026 | [TestPilotAI](https://github.com/KushDani23/TestPilotAI) | [completed Spring Ai migration with json mode](https://github.com/KushDani23/TestPilotAI/commit/c8632f99c2ba902fb77e9f8e700e0c530a82ac14) |
 | 31 Oct 2026 | [TestPilotAI](https://github.com/KushDani23/TestPilotAI) | [Merge Spring AI implementation into main](https://github.com/KushDani23/TestPilotAI/commit/ff2661d429495675abf9cb7aa5b50d11fe989b6d) |
 | 31 Oct 2026 | [TestPilotAI](https://github.com/KushDani23/TestPilotAI) | [Merge reomte-tracking branch 'origin/main' into spring-ai](https://github.com/KushDani23/TestPilotAI/commit/f9bffb98b1b4e5b3462a067ab8d87cf8df2a2454) |
 | 31 Oct 2026 | [TestPilotAI](https://github.com/KushDani23/TestPilotAI) | [Migrate API testing to Spring AI](https://github.com/KushDani23/TestPilotAI/commit/e9d26b984575e367d584c1fecec3ac1d45ab28a1) |
-| 29 Oct 2026 | [ClaimFlow](https://github.com/KushDani23/ClaimFlow) | [admin dashboard redefiend](https://github.com/KushDani23/ClaimFlow/commit/f23a3c88bd0a421e128e9d3f9399958cccc1375d) |
-| 29 Oct 2026 | [ClaimFlow](https://github.com/KushDani23/ClaimFlow) | [untrack target files from folder](https://github.com/KushDani23/ClaimFlow/commit/65e392ad33c96a9ecc4c37ee95dd2c6498204ed2) |
 <!--LATEST_COMMITS:END-->
 
 ---
