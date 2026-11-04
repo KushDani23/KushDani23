@@ -4,7 +4,7 @@
 
 ### Software Developer · Spring Boot · REST APIs
 
-M.Sc-IT @ Dhirubhai Ambani University (DA-IICT) · Ahmedabad, India
+M.Sc-IT @ Dhirubhai Ambani University (DA-IICT) · India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushdani/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KushDani09/)
